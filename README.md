@@ -23,6 +23,7 @@ This project allows users to add, remove, and view tasks using an interactive me
 
 .
 ├── todo.py        # Main Python script
+<br>
 └── README.md      # Project documentation
 
 ## How It Works
