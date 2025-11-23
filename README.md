@@ -2,12 +2,12 @@
 This is my first sem project
 
 
-##Simple To-Do List (Python CLI)
+## Simple To-Do List (Python CLI)
 
 A beginner-friendly Command Line To-Do List Application written in Python.
 This project allows users to add, remove, and view tasks using an interactive menu interface.
 
-##Features
+## Features
 
   -Add new tasks
 
@@ -19,24 +19,22 @@ This project allows users to add, remove, and view tasks using an interactive me
 
   -Very easy to understand — perfect for beginners
 
-##Project Structure
+## Project Structure
 
 .
 ├── todo.py        # Main Python script
 └── README.md      # Project documentation
 
-##How It Works
+## How It Works
 
 The program uses a while loop to display a menu repeatedly.
 Users can choose an option:
 
-1. Add a task
+  1. Add a task
 
+  2. Remove a task
 
-2. Remove a task
-
-
-3. View all tasks
+  3. View all tasks
 
 
 4. Exit the program
